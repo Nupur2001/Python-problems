@@ -1,0 +1,17 @@
+print("Binary to Decimal")
+print(int("1010",2))
+print(0b1010)
+print("Octol to Decimal")
+print(int("100",8))
+print(0o100)
+print("Hexa to Decimal")
+print(int("8E",16))
+print(0x8E)
+print("Decimal to Binary")
+print(bin(16))
+print("Decimal to Octol")
+print(oct(142))
+print("Hexa to Octol")
+print(hex(100))
+
+
