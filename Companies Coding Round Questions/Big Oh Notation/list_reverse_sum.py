@@ -39,5 +39,17 @@ print(f'The sum of reversed array: {sum}')
 
 
 
+def reverse_and_sum(arr):
+    reversed_arr=arr[::-1]
+    print(reversed_arr)
+    total_sum=0
+    for i in reversed_arr:
+        total_sum+=i
+    return total_sum
 
+
+
+n=int(input())
+arr=list(map(int,input().split()))
+print(reverse_and_sum(arr))
 
