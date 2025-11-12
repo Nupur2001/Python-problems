@@ -176,7 +176,3 @@ making code **organized, modular, and easier to maintain**.
 
 ---
 
-**🖋️ Author:** *Nupur Sikka*  
-**🧠 Topic:** Python OOPs Concept  
-**💡 Level:** Beginner to Intermediate  
-**📂 Language:** Python  
