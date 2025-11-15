@@ -1,6 +1,6 @@
 # 🐍 Object-Oriented Programming (OOPs) Concepts in Python
 
-## 📘 
+## 📘 Introduction
 **Object-Oriented Programming (OOP)** is a programming paradigm based on the concept of **objects**.  
 Each object represents a real-world entity and contains both **data (attributes)** and **behavior (methods)**.  
 
