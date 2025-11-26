@@ -11,5 +11,5 @@ def Fibbonacci(n):
 print(Fibbonacci(int(input())))
 
 
-print
+
     
