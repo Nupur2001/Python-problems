@@ -9,4 +9,7 @@ def Fibbonacci(n):
     else:
         return Fibbonacci(n-1)+Fibbonacci(n-2)
 print(Fibbonacci(int(input())))
+
+
+print
     
