@@ -1,3 +1,24 @@
+'''
+Objective
+The goal of this mini project is to build a simple command-line game using Python where the user plays Snake–Water–Gun against the computer. This project helps reinforce basic Python concepts in a fun and practical way.
+
+Game Rules
+Snake drinks Water → Snake wins
+Water disables Gun → Water wins
+Gun kills Snake → Gun wins
+Same choice by both → Draw
+Program Explanation
+The computer randomly selects Snake, Water, or Gun using the random module.
+
+The user inputs their choice (s, w, or g).
+
+A function compares both choices and returns:
+
+True → User wins
+False → User loses
+None → Draw
+The result is displayed using f-strings for better readability.
+'''
 import random
 
 # Winning combinations
